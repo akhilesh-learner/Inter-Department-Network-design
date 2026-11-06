@@ -147,7 +147,7 @@ This tests connectivity with a PC in the Accounts Department.
 
 ![Network Topology](Screenshots/network-topology.PNG)
 
-**Result:** Successful ping responses should be received, confirming communication between both departments.
+**Result:** Successful ping responses had been received, confirming communication between both departments.
 
 ## 🛠️ Tools and Technologies Used
 
