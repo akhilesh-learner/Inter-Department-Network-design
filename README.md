@@ -159,7 +159,7 @@ This tests connectivity with a PC in the Accounts Department.
 - ICMP (Ping)
 - Basic Router Configuration
 
-## 📚 Key Learning Outcomes
+## ✅ Key Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -171,6 +171,6 @@ Through this project, I gained practical experience in:
 - Connecting multiple LANs through a router.
 - Troubleshooting network connectivity using `ping`.
 
-## 👨‍💻 Developer - Akhilesh Yadav
+## 👨‍💻 Made by - Akhilesh Yadav
 
 Created as a practical computer networking project using **Cisco Packet Tracer**.
