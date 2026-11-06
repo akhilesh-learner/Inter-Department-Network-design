@@ -13,7 +13,7 @@ Both departments are connected through a central **Cisco 2911 Router**, with a d
 
 The main objective is to establish communication between the two departments and verify connectivity using the ICMP `ping` command.
 
-## Scenario
+## 🧠 Scenario
 
 ![Question](Screenshots/question.png)
 
